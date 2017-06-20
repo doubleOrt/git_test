@@ -5,3 +5,4 @@ Friendly Fire, Friendly Fire!
 Fifth line added to origin/master.
 Sixth line added to branch666 :)
 Added a seventh line to origin/remote_branch2
+Added an eighth line to origin/branch666
