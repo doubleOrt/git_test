@@ -4,3 +4,4 @@ Hostile Tank at 8 o'clock!
 Friendly Fire, Friendly Fire!
 Fifth line added to origin/master.
 Sixth line added to branch666 :)
+Added a seventh line to origin/remote_branch2
